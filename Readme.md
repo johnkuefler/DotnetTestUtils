@@ -1,5 +1,8 @@
 ## Dotnet Test Utils
 
+[![Build status](https://ci.appveyor.com/api/projects/status/lqs7dw1wxior9dh1?svg=true)](https://ci.appveyor.com/project/johnkuefler/dotnettestutils)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 A small collection of utilities, factories, and builders to make unit and integration testing real-world .Net Core applications easier.
 These tools heavily utilize [AutoFixture](https://github.com/AutoFixture/AutoFixture) and [EF Core in memory database](https://docs.microsoft.com/en-us/ef/core/providers/in-memory/). 
 It provides factory and builder tools for AutoFixture and EntityFramework Core/DbContext
