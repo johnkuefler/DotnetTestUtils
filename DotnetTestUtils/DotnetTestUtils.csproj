@@ -19,7 +19,7 @@
     <AssemblyName>DotnetTestUtils</AssemblyName>
     <RootNamespace>DotnetTestUtils</RootNamespace>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageLicenseUrl></PackageLicenseUrl>
+    <PackageLicenseUrl>https://github.com/johnkuefler/DotnetTestUtils/blob/master/LICENSE</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/johnkuefler/DotnetTestUtils</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>dotnet,test,unit testing, integration testing</PackageTags>
