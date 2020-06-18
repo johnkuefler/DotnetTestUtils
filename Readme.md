@@ -25,7 +25,7 @@ public async void GetHome_ReturnsViewResult()
                 .Create();
 
     // auto injects any dependencies for home controller with automocking
-    var sut = _fixture.Create<HomeController>();
+    var sut = fixture.Create<HomeController>();
 
     // act
     var result = await sut.Home();
@@ -54,10 +54,10 @@ public async void GetAllProducts_ReturnsAllProducts()
 
     // if you wanted to maniuplate the context with random data/fixtures after creating initial fixture, 
     // could register it this way as well
-    //_fixture.RegisterDbContext(context);
+    //fixture.RegisterDbContext(context);
 
     // dbcontext will be auto injected
-    var sut = _fixture.Create<ProductService>();
+    var sut = fixture.Create<ProductService>();
 
     // act
     var products = await sut.GetAll();
