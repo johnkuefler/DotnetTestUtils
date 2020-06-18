@@ -14,8 +14,8 @@
     <Copyright>2019 John Kuefler</Copyright>
     <PackageProjectUrl>https://github.com/johnkuefler/DotnetTestUtils</PackageProjectUrl>
     <PackageIconUrl>https://raw.githubusercontent.com/johnkuefler/DotnetTestUtils/master/DotnetTestUtils/icon.png</PackageIconUrl>
-    <AssemblyVersion>0.1.0.1</AssemblyVersion>
-    <FileVersion>0.1.0.1</FileVersion>
+    <AssemblyVersion>0.2.0.1</AssemblyVersion>
+    <FileVersion>0.2.0.1</FileVersion>
     <AssemblyName>DotnetTestUtils</AssemblyName>
     <RootNamespace>DotnetTestUtils</RootNamespace>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
