@@ -9,6 +9,8 @@ These tools heavily utilize [AutoFixture](https://github.com/AutoFixture/AutoFix
 It provides factory and builder tools for AutoFixture and EntityFramework Core/DbContext
 with the goal of making items that are often difficult to test (e.g. repositories/dbcontexts, controllers) easier to test by streamlining the arrange part of the test.
 
+__IMPORTANT NOTE:__ Version Use version 0.3.0.1+ if you are using .Net6.Use 0.2.0.1 and below for earlier .Net versions.
+
 ### Getting Started
 Examples below are using xUnit.
 
